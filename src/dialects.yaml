@@ -255,3 +255,9 @@
   repo: https://gitlab.com/andreyorst/clojurefnl
   host: Fennel / Lua
   tags: [clojure]
+
+- name: obb
+  desc: SCI ClojureScript scripting of Mac OSX via Apple Open Scripting Architecture
+  repo: https://github.com/babashka/obb
+  host: OSX Applescript Open Scripting Architecture
+  tags: [clojure, native]
